@@ -3,7 +3,7 @@ import style from "./Avatar.module.css";
 class Avatar extends Component {
   state = {};
   render() {
-    const { url, size = "40px" } = this.props;
+    const { url = "", size = "40px" } = this.props;
 
     return (
       <div>
