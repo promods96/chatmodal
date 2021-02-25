@@ -1,0 +1,26 @@
+.header {
+  height: 20%;
+  background-color: #fbeeac;
+  width: 100%;
+  padding: 8px 16px;
+}
+.header_1 {
+  display: flex;
+  justify-content: space-between;
+}
+.inputsearch {
+  width: 95%;
+  margin: auto;
+  height: 32px;
+  border-radius: 16px;
+  border: none;
+  padding: 0px 8px;
+}
+.icons {
+  width: 24px;
+  height: 24px;
+  margin: 0px 4px;
+}
+.header_2 {
+  text-align: center;
+}

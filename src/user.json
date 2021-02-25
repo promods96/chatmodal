@@ -1,0 +1,29 @@
+{
+  "userIds": [1, 2, 3, 4, 5],
+  "userData": {
+    "1": {
+      "contact_name": "Akshay",
+      "dp": "https://source.unsplash.com/collection/190727/32x32"
+    },
+    "2": {
+      "contact_name": "Bala",
+      "dp": "https://source.unsplash.com/collection/190727/32x32"
+    },
+    "3": {
+      "contact_name": "Naveen",
+      "dp": "https://source.unsplash.com/collection/190727/32x32"
+    },
+    "4": {
+      "contact_name": "Abinaya",
+      "dp": "https://source.unsplash.com/collection/190727/32x32"
+    },
+    "5": {
+      "contact_name": "Malar",
+      "dp": "https://source.unsplash.com/collection/190727/32x32"
+    },
+    "6": {
+      "contact_name": "JD",
+      "dp": "https://source.unsplash.com/collection/190727/32x32"
+    }
+  }
+}

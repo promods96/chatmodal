@@ -1,0 +1,22 @@
+{
+  "1": {
+    "sender": ["Hi", "Whats up?"],
+    "receiver": ["Hello", "bored"]
+  },
+  "2": {
+    "sender": ["Hi"],
+    "receiver": ["Hello", "Jeez"]
+  },
+  "3": {
+    "sender": [],
+    "receiver": []
+  },
+  "4": {
+    "sender": [],
+    "receiver": []
+  },
+  "5": {
+    "sender": [],
+    "receiver": []
+  }
+}
